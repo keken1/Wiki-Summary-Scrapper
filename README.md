@@ -1,2 +1,2 @@
 # Wiki-Summary-Scrapper
-A simple script that scrapes wikipedia summary. 
+A simple python script that scrapes wikipedia summary. 
